@@ -82,3 +82,13 @@ As Startus adotam o método ágil para poder entregar um mínimo produto viável
 - [x] Time DEV ✔️
 - [ ] Área de Negócios ✖️
 - [ ] Product Owner ✖️
+
+---
+## CERIMÔNIAS DO SCRUM
+
+Time Box é o tempo máximp para fazer uma cerimônia (Sprint), de 30 dias. Que é dividida em:
+1. Planejamento da Sprint (Especificam o que fazer e como fazer).
+2. Reuniões Diárias (Para detalhar o que ja foi feito, esta esta sendo feito e o que ainda falta fazer, em 15 minutos).
+3. Revisão da Sprint (O time DEV apresenta para o PO o que foi feito e o PO decide se o que foi feito irá para produção para ser entregue, 4 horas).
+4. Retrospectiva da Sprint (Reunião com transparência de lições aprendidas e erros, 3 horas)
+
