@@ -2,6 +2,8 @@
 
 ## **1 - CONCEITOS BÁSICOS**
 
+![Modelo Tradicional vs Modelo Ágil](https://agilers.com.br/wp-content/uploads/2021/01/casc%C3%A1gil.png)
+
 O software facilita o sucesso dos objetos, que deve seguir etapas de 
 1. Concepção
 2. Análise & Design
@@ -10,8 +12,6 @@ O software facilita o sucesso dos objetos, que deve seguir etapas de
 5. Implantação
 
 Porém na realidade apenas "20%" das funcionalidade deste software é utilizada (Princípio de Pareto). Ou seja, há muito investimento para pouco retorno. Pensando nisso foi desenvolvido gestão **ágil** de projetos como alternativa à gestão **tradicional** que *"só permite que o projeto avance quando uma fase esta inteiramente completa"*. No **modelo ágil** *"o software pe construído por partes (inclemento) e cadas parte executa-se em um ciclo (iterativo)"*
-
-![Modelo Tradicional vs Modelo Ágil](https://agilers.com.br/wp-content/uploads/2021/01/casc%C3%A1gil.png)
 
 > *Em projeto stradicionais (Waterfall), você corre o risco de descobrir que estava errado depois de meses. Com o SCRUM, você descobre que estava errado em no máximo 30 dias.*
 
@@ -53,6 +53,8 @@ As Startus adotam o método ágil para poder entregar um mínimo produto viável
 ---
 ## PAPÉIS E RESPONSABILIDADES
 
+![Time SCRUM](https://lh5.googleusercontent.com/bfq-LJ2XehCRVcLRWJ-717kUxDtkJWs4jpukOHuWeWtpbxDmKPYhMy1rSKCsw9Qzek5BIPdRcJ6YrxTDMxs7dHUpHp56yScXhP2vzNcYIRwmaQemtvBhowuhkmh_uwjm4yij2oLO)
+
 **PRODUCT OWNER (PO)**: representa a área do negócio que define as funcionalidades do software, as funcionalidades que são prioridades e garante que o time de desenvolvimento entenda as funcionalidades.
 
 **SCRUM MASTER (SM)**: Garante o uso correto do SCRUM, facilita o entendimento e os prazos junto com o PO, axilia a retirada de impedimentos do time de desenvolvimento, o treina o time em autogerenciamento.
@@ -85,6 +87,8 @@ As Startus adotam o método ágil para poder entregar um mínimo produto viável
 
 ---
 ## CERIMÔNIAS DO SCRUM
+
+![Cerimônias SCRUM](http://r1.ufrrj.br/nuesgames/assets/img/noticias/video.png)
 
 Time Box é o tempo máximp para fazer uma cerimônia (Sprint), de 30 dias. Que é dividida em:
 1. Planejamento da Sprint (Especificam o que fazer e como fazer).
