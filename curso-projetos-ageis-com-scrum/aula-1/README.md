@@ -32,7 +32,7 @@ Podemos entregar um software em partes menores de 2 a 4 semanas, gerenciamentos 
 As Startus adotam o método ágil para poder entregar um mínimo produto viável (MVP) para que o usuário possa tem o acesso à aplicação no menor tempo possível.
 
 ---
-## **EXERCÍCIOS**
+### **EXERCÍCIOS**
 
 1. Qual característica de um projeto ágil?
 
@@ -49,3 +49,36 @@ As Startus adotam o método ágil para poder entregar um mínimo produto viável
 - [x] Adaptação, Transparência e Inspeção ✔️
 - [ ] Comunicação e Status Report ✖️
 - [ ] Riscos, Escopo e Custos ✖️
+
+---
+## PAPÉIS E RESPONSABILIDADES
+
+**PRODUCT OWNER (PO)**: representa a área do negócio que define as funcionalidades do software, as funcionalidades que são prioridades e garante que o time de desenvolvimento entenda as funcionalidades.
+
+**SCRUM MASTER (SM)**: Garante o uso correto do SCRUM, facilita o entendimento e os prazos junto com o PO, axilia a retirada de impedimentos do time de desenvolvimento, o treina o time em autogerenciamento.
+
+**TIME DE DESENVOLVIMENTO (DEV)**: um grupo de pessoas com habilidades de desenvolver o software, tester, criar e desenhar que dividem a responsabilidade (front-end, back-end, devops).
+
+---
+### **EXERCÍCIOS**
+
+1. Quem é o responsavel por priorizar o Backlog?
+
+- [ ] Scrum Master ✖️
+- [ ] Time DEV ✖️
+- [ ] Área de Negócios ✖️
+- [x] Product Owner ✔️
+
+2. Quem é o responsavel por garantir que o time utilize a melhor forma o SCRUM?
+
+- [x] Scrum Master ✔️
+- [ ] Time DEV ✖️
+- [ ] Área de Negócios ✖️
+- [ ] Product Owner ✖️
+
+3. Quem é o responsável por desenhar, construir e entregar o software funcionando?
+
+- [ ] Scrum Master ✖️
+- [x] Time DEV ✔️
+- [ ] Área de Negócios ✖️
+- [ ] Product Owner ✖️
