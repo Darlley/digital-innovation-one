@@ -96,3 +96,9 @@ Time Box é o tempo máximp para fazer uma cerimônia (Sprint), de 30 dias. Que 
 3. Revisão da Sprint (O time DEV apresenta para o PO o que foi feito e o PO decide se o que foi feito irá para produção para ser entregue, 4 horas).
 4. Retrospectiva da Sprint (Reunião com transparência de lições aprendidas e erros, 3 horas)
 
+---
+## GESTÃO DE PROJETOS TRADICIONAL X ÁGIL
+
+Na prática, por exemplo, se a Nubank quisesse implementar uma nova funcionalidade da forma tradicional a Statup demoria muito mais tempo do que se implementasse de forma ágil entregando um mínimo produto viável e incrementando novas funcionalidades posteriormente sem ter que planejar a Nubank como é hoje do inicio ao fim e entregando o projeto/empresa de forma completa.
+
+![Nubank evolução](https://files.sunoresearch.com.br/n/uploads/2021/04/cd56470c-121668110_3554247724613861_8268621916409393931_n-800x450.jpg)
