@@ -19,11 +19,11 @@ Fiz este repositório para guardar as atividades do bootcamp da [Digital Innovat
 | Certificação                                      | 27 Horas |
 |---------------------------------------------------|----------|
 | Bem vindo a DIO                                   | 1 horas  |
-| Lógica de Programação Essencial - [código](https://github.com/Darlley/Frontend/tree/master/Digital-Innovation-One/bootcamp-HTMLWebDeveloper/01-LogidaDeProgramacao)                   | 4 Horas  |
-| Introdução ao Git e ao Github - [código](https://github.com/Darlley/Frontend/tree/master/Digital-Innovation-One/bootcamp-HTMLWebDeveloper/02-IntroducaoGitGithub)                     | 5 Horas  |
-| Introdução a criação de websites com HTML5 e CSS3 - [código](https://github.com/Darlley/Frontend/tree/master/Digital-Innovation-One/bootcamp-HTMLWebDeveloper/03-CriacaoDeWebsites) | 6 Horas  |
-| Recriando a página inicial do Instagram [código](https://github.com/Darlley/Frontend/tree/master/Digital-Innovation-One/bootcamp-HTMLWebDeveloper/04-RecriandoInstagram)           | 2 Horas  |
-| Programação para internet com JavaScript          | 2 Horas  |
+| Lógica de Programação Essencial - [código](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/logica-de-programacao)                   | 4 Horas  |
+| Introdução ao Git e ao Github - [código](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/introducao-ao-git-e-ao-github)                     | 5 Horas  |
+| Introdução a criação de websites com HTML5 e CSS3 - [código](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/introducao-a-criacao-de-websites-com-html5-e-css3) | 6 Horas  |
+| Recriando a página inicial do Instagram - [código](https://github.com/Darlley/Frontend/tree/master/Digital-Innovation-One/bootcamp-HTMLWebDeveloper/04-RecriandoInstagram)           | 2 Horas  |
+| Programação para internet com JavaScript - [código](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/programacao-para-internet-com-javascript)          | 2 Horas  |
 | Introdução a Programação com JavaScript           | *Desafio*  |
 | Recriando a Interface do Netflix - [código](https://github.com/Darlley/Frontend/blob/master/Digital-Innovation-One/bootcamp-HTMLWebDeveloper/06-RecriandoNetflix/README.md)                  | 5 Horas  |
 | Construindo páginas para internet com Bootstrap   | 4 Horas  |
