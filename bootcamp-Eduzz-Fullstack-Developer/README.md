@@ -28,7 +28,7 @@ Fiz este repositório para guardar as atividades do bootcamp da [Digital Innovat
 
 ## Atividades desse bootcamp
 
-| 1  | Bem-vindo ao Bootcamp Eduzz Fullstack Developer                                                | 1 horas  |
+| [1](https://youtu.be/pcumPTnZBTg)  | Bem-vindo ao Bootcamp Eduzz Fullstack Developer                                                | 1 horas  |
 |----|------------------------------------------------------------------------------------------------|----------|
 | 2  | Bem-vindo à DIO                                                                                | 1 horas  |
 | 3  | Mentoria 01: Aula Inaugural                                                                    | 2 horas  |
