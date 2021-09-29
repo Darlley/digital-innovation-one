@@ -32,14 +32,14 @@ Fiz este repositório para guardar as atividades do bootcamp da [Digital Innovat
 |----|------------------------------------------------------------------------------------------------|----------|
 | 2  | Bem-vindo à DIO                                                                                | 1 horas  |
 | 3  | Mentoria 01: Aula Inaugural                                                                    | 2 horas  |
-| [4](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/projetos-ageis-com-scrum)  | Projetos ágeis com SCRUM                                                                       | 2 horas  |
-| [5](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/logica-de-programacao)  | Lógica de Programação Essencial                                                                | 4 horas  |
-| [6](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/introducao-ao-git-e-ao-github)  | Introdução ao Git e ao GitHub                                                                  | 5 horas  |
+| [4](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/projetos-ageis-com-scrum) ✔️  | Projetos ágeis com SCRUM                                                                       | 2 horas  |
+| [5](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/logica-de-programacao) ✔️  | Lógica de Programação Essencial                                                                | 4 horas  |
+| [6](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/introducao-ao-git-e-ao-github) ✔️  | Introdução ao Git e ao GitHub                                                                  | 5 horas  |
 | 7  | Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso                     | 1 horas  |
 | 8  | Mentoria 02: Carreira Eduzz e cultura e governança                                             | 2 horas  |
-| [9](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/introducao-a-criacao-de-websites-com-html5-e-css3)  | Introdução a criação de websites com HTML5 e CSS3                                              | 6 horas  |
-| [10](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/javascript-es6-essencial) | JavaScript ES6 essencial                                                                           | 4 horas  |
-| 11 | Desenvolvimento avançado com JavaScript ES6                                                    | 5 horas  |
+| [9](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/introducao-a-criacao-de-websites-com-html5-e-css3) ✔️  | Introdução a criação de websites com HTML5 e CSS3                                              | 6 horas  |
+| [10](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/javascript-es6-essencial) ✔️ | JavaScript ES6 essencial                                                                           | 4 horas  |
+| [11](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/desenvolvimento-avancado-com-javascript-es6) ✔️ | Desenvolvimento avançado com JavaScript ES6                                                    | 5 horas  |
 | 12 | Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces                               | 2 horas  |
 | 13 | Resolvendo Desafios de Código em Javascript                                                    | 1 horas  |
 | 14 | Desafios iniciais em JavaScript                                                                | 1 horas  |
