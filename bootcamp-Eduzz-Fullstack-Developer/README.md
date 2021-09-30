@@ -33,7 +33,7 @@ Fiz este repositório para guardar as atividades do bootcamp da [Digital Innovat
 | 2  | Bem-vindo à DIO                                                                                | 1 horas  |
 | 3  | Mentoria 01: Aula Inaugural                                                                    | 2 horas  |
 | [4](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/projetos-ageis-com-scrum)  | Projetos ágeis com SCRUM ✔️                                                                       | 2 horas  |
-| [5](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/logica-de-programacao)  | Lógica de Programação ✔️ Essencial                                                                | 4 horas  |
+| [5](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/logica-de-programacao)  | Lógica de Programação Essencial ✔️                                                                | 4 horas  |
 | [6](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/introducao-ao-git-e-ao-github)  | Introdução ao Git e ao GitHub ✔️                                                                  | 5 horas  |
 | 7  | Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso                     | 1 horas  |
 | 8  | Mentoria 02: Carreira Eduzz e cultura e governança                                             | 2 horas  |
