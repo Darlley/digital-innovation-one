@@ -10,6 +10,7 @@ Dedicado para resolução de exercícios de cursos, projetos e bootcamps da Digi
 3. [Introdução ao Git e ao GitHub](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/introducao-ao-git-e-ao-github) ✔️
 4. [Programação para internet com JavaScript](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/programacao-para-internet-com-javascript) ✔️
 5. [Desenvolvimento avançado com JavaScript ES6](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/desenvolvimento-avancado-com-javascript-es6) ✔️
+6. [Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/introducao-ao-typescript) ✔️
 
 ## **BOOTCAMPS**
 

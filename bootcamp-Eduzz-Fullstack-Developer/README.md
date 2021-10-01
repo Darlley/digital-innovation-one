@@ -40,7 +40,7 @@ Fiz este repositório para guardar as atividades do bootcamp da [Digital Innovat
 | [9](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/introducao-a-criacao-de-websites-com-html5-e-css3)  | Introdução a criação de websites com HTML5 e CSS3 ✔️                                              | 6 horas  |
 | [10](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/javascript-es6-essencial) | JavaScript ES6 essencial ✔️                                                                           | 4 horas  |
 | [11](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/desenvolvimento-avancado-com-javascript-es6) | Desenvolvimento avançado com JavaScript ES6 ✔️                                                    | 5 horas  |
-| 12 | Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces                               | 2 horas  |
+| [12](https://github.com/Darlley/digital-innovation-one/tree/main/cursos/introducao-ao-typescript) | Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces ✔️                                | 2 horas  |
 | 13 | Resolvendo Desafios de Código em Javascript                                                    | 1 horas  |
 | 14 | Desafios iniciais em JavaScript                                                                | 1 horas  |
 | 15 | Criando seu jogo de memória estilo Genius                                                      | 2 horas  |
