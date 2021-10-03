@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo{
+    background-color: tomato;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.componentA{
+    background-color: rgb(0, 195, 198);
+    padding: 10px;
+}
+.componentB{
+    background-color: rgb(0, 176, 56);
+
+    padding: 10px;
+
+}
+.componentC{
+    background-color: rgb(128, 62, 0);
+
+    padding: 10px;
+
+}
