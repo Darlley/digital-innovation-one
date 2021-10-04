@@ -45,7 +45,7 @@ Fiz este repositório para guardar as atividades do bootcamp da [Digital Innovat
 | 14 | Desafios iniciais em JavaScript                                                                | 1 horas  |
 | 15 | Criando seu jogo de memória estilo Genius                                                      | 2 horas  |
 | 16 | Mentoria 03: Projeto Eduzz                                                                     | 2 horas  |
-| 17 | Introdução ao ReactJS                                                                          | 3 horas  |
+| [17](https://certificates.digitalinnovation.one/FCF99A3D) | Introdução ao ReactJS ✔️                                                                          | 3 horas  |
 | 18 | Trabalhando com Componentes em React                                                           | 2 horas  |
 | 19 | Desenvolvimento de aplicações para internet com ReactJS                                        | 4 horas  |
 | 20 | Práticas avançadas em projetos com ReactJS                                                     | 4 horas  |
