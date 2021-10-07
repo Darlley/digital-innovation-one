@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    background-color: #c8ffff;
+}
+
+.main-game{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.genius{
+    display: grid;
+    grid-template-areas: "green red"
+    "yellow blue";
+    grid-gap: 10px;
+    border: 2px solid #c8ffff;
+    background-color: #c8ffff;
+    border-radius: 100%;
+    width: 600px;
+    height: 600px;
+
+    animation: circle 25s infinite linear;
+    
+}
+@keyframes circle { 
+    from { 
+        transform: rotate(0deg); 
+    } to { 
+        transform: rotate(360deg); 
+    }
+}
+
+.blue{
+    grid-area: "blue";
+    background-color: #0088ff;
+    border-top-left-radius: 100%;
+}
+.yellow{
+    grid-area: "blue";
+    background-color: #ddff00;
+    border-top-right-radius: 100%;
+}
+.red{
+    grid-area: "blue";
+    background-color: #ff3700;
+    border-bottom-left-radius: 100%;
+}
+.green{
+    grid-area: "blue";
+    background-color: #00ff48;
+    border-bottom-right-radius: 100%;
+}
+.selected {
+    opacity: 0.5;
+    border: 1px solid gray;
+}
