@@ -1,0 +1,1 @@
+[![Certificado](https://hermes.digitalinnovation.one/certificates/cover/8A1A50E0.jpg)](https://certificates.digitalinnovation.one/8A1A50E0)
