@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "react-redux": "^7.2.5"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.15.7",
+        "@babel/core": "^7.15.8",
+        "@babel/preset-react": "^7.14.5",
+        "redux-devtools": "^3.7.0"
+    }
+}
